@@ -1,2 +1,2 @@
-# lstm.with.peepholes.torch
-Torch LSTM implementation with peephole connections
+# LSTM cell implementation with peephole connections
+Talk is cheap, show me the code. T.L.
